@@ -1,5 +1,7 @@
-# Calculadora_Estrutura_de_dados 
+# Calculadora_Estrutura_de_dados
+
 README — Avaliador de Expressões Numéricas em C
+
 Este projeto implementa um avaliador de expressões matemáticas em notação pós-fixa, capaz de:
 •	Converter pós-fixa para infixa
 •	Calcular o valor numérico da expressão
