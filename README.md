@@ -3,16 +3,16 @@
 README — Avaliador de Expressões Numéricas em C
 
 Este projeto implementa um avaliador de expressões matemáticas em notação pós-fixa, capaz de:
-•	Converter pós-fixa para infixa
-•	Calcular o valor numérico da expressão
-•	Suportar:
-o	Operadores: + - * / ^
-o	Funções: sen cos tg log raiz
+Converter pós-fixa para infixa
+Calcular o valor numérico da expressão
+Suportar:
+Operadores: + - * / ^
+Funções: sen cos tg log raiz
 
 Os arquivos principais são:
-•	main.c
-•	expressao.c
-•	expressao.h
+main.c
+expressao.c
+expressao.h
 
 
 Como compilar
